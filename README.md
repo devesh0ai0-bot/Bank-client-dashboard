@@ -13,8 +13,6 @@ The dashboard will help the bank officials:-
 
 Preview 📷
 
-Power BI - [https://1drv.ms/u/c/1251f234e5efbdd5/EX9idJKEM3RGnzmncBt1bicBF1ubuDLMUpRCTDfeeAezbg?e=Ib9tdz](url)
-
 Pdf - [banking clients dashboard.pdf](https://github.com/user-attachments/files/22261871/banking.clients.dashboard.pdf)
 
 Tools used⚙️:
